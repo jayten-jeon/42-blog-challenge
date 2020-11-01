@@ -12,17 +12,17 @@
 |[jaejeon](https://github.com/jayten42)|[글 제목]()|
 |||
 ## 2주차
-|참여자|1주차 블로그 글 주소|
+|참여자|2주차 블로그 글 주소|
 |---|---|
 |[jaejeon](https://github.com/jayten42)|[글 제목]()|
 |||
 ## 3주차
-|참여자|1주차 블로그 글 주소|
+|참여자|3주차 블로그 글 주소|
 |---|---|
 |[jaejeon](https://github.com/jayten42)|[글 제목]()|
 |||
 ## 4주차
-|참여자|1주차 블로그 글 주소|
+|참여자|4주차 블로그 글 주소|
 |---|---|
 |[jaejeon](https://github.com/jayten42)|[글 제목]()|
 |||
