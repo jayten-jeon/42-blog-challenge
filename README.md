@@ -14,3 +14,5 @@
 5. 다른 사람의 글을 읽고, Pull Request에 간단한 코멘트를 남겨줍니다. :smile:
 ## 챌린지
 - [2020년 11월 챌린지](https://github.com/jayten42/42-blog-challenge/tree/main/202011)
+
+> 현재 README.md 수정 PR을 주셔도 좋습니다!
